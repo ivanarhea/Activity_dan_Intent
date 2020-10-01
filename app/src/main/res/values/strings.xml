@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Activiti dan Intent</string>
+    <string-array name="jurusan_polinema">
+        <item>Akuntansi</item>
+        <item>Administrasi Niaga</item>
+        <item>Teknik Eletro</item>
+        <item>Teknik Kimia</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Sipi</item>
+        <item>Teknik Informatika</item>
+    </string-array>
+</resources>
+
